@@ -21,7 +21,7 @@ Firefox: https://add0n.com/access-control.html?version=0.1.9&type=install
 
 You'll need to click extension to enable it.
 
-Make sure the extention is only enabled for reddit. You can do this by clicking on the 3 dots beside the extension and clicking on manage extension. Then go to the site access part and select "on specific sites" and then type reddit.com 
+Make sure the extention is only enabled for reddit. You can do this by clicking on the 3 dots beside the extension and clicking on manage extension. Then go to the site access part and select "on specific sites" and then type https://www.reddit.com/*
 
 Use this extension carefully, you should not enable Cross Origin Requests for any other webpages. Try use it in incognito / do not browse other sites than Reddit
 
